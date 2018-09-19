@@ -1,0 +1,15 @@
+Administration:
+  Maintenance-Allowed: []
+  Blacklistet-UUIDs: []
+  Maintenance:
+    Status: false
+    Reason: ''
+  Chat:
+    BlacklistetWords: []
+  Motd:
+    '1': '&6SwordGames.net &8➼ &7Dein PvP Netzwerk &8• &a1.8'
+    '2': '&8  » &aWir haben geöffnet &7+ &ePremium Verlosung'
+    Maintenance: '&8  » &cWir befinden uns in Wartungsarbeiten!'
+  Slots: 75
+  Lobby-Server: Lobby
+  Bau-Server: Bauserver
